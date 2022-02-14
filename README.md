@@ -1,18 +1,12 @@
 ## Hi there 👋
 Hakan is here
-
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
-
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 💬 Ask me about anything that you want to learn 
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakan-karaahmeto%C4%9Flu-9988171b3/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakankaraahmet" alt="hakankaraahmet" /> </p>
-
 ## 🚀 Skills
-
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
@@ -23,9 +17,6 @@ Hakan is here
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a> 
@@ -38,6 +29,3 @@ Hakan is here
 <img src="https://github-readme-stats.vercel.app/api?username=hakankaraahmet&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakankaraahmet&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakankaraahmet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
-
-
